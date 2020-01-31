@@ -1,0 +1,45 @@
+<?php
+return[
+    'table'                              => [
+        'no'                    => 'No.',
+        'name'                  => 'Name',
+        'company'               => 'Company',
+        'present'               => 'Present',
+        'absent'                => 'Absent',
+        'time_in'               => 'Time In',
+        'time_out'              => 'Time Out',
+        'department'            => 'Department',
+        'hours'                 => 'Hours (this month)',
+        'site'                  => 'Site',
+        'action'               => 'Action',
+    ],
+
+    'label'                              => [
+        'date'                    => 'Date',
+        'search'                  => 'Search from:',
+        'filter'                  => 'Filter by:',
+        'site'                    => 'Site',
+        'company'                 => 'Company',
+        'department'              => 'Department',
+        'present'                 => 'Present:',
+        'absent'                  => 'Absent:',
+        'mark_all'                => 'Mark all as',
+        'attendance'              => 'Attendance',
+        'todays'                  => 'Today\'s',
+        'past_attendance'         => 'Past Attendance',
+        'view_from'               => 'View Attendance from:',
+        'view_hours'              => 'View Hours From:',
+        'view'                    => 'View',
+        'to'                      => 'To',
+        'report'                  => 'Report',
+        'total_hours'             => 'Total Hours Worked this Month',
+        'total_company'           => 'Total Companies',
+        'work_schedule'           => 'Work Schedule',
+        'company_header'          => 'Company and position details',
+    ],
+
+    'button'                              => [
+        'download'                  => 'Download Uploaded Attendance',
+        'search'                    => 'Search',
+    ],
+];
